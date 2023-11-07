@@ -17,7 +17,6 @@
  }
 
  function mostrarDatosClima(data){
-        console.log(data)
         const divDatosCLima = document.getElementById('datosClima')
         divDatosCLima.innerHTML=''
 
